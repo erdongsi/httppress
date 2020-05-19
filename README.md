@@ -1,4 +1,4 @@
-# cwchttp
+# httppress
 A simple http framework.
 
 # How to code?
