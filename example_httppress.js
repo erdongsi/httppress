@@ -10,7 +10,7 @@ const httpserver = require("./src/httpserver");
 const mycmd = require("./mycmd");
 const helloworld = require("./helloworld");
 
-logs.getInst().setID("example_cwchttp",2);
+logs.getInst().setID("example_httppress",2);
 
 // 0.make mycmd
 cmd.start(mycmd.doCmd);
